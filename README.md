@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a postdoctoral researcher in process system engineering at Purdue University. My current research focuses on mixed-integer optimization and its applications in chemical, process, and energy systems engineering.
+
+- 🔭 I'm also a developer of the mixed-integer solver [MindtPy](https://pyomo.readthedocs.io/en/stable/contributed_packages/mindtpy.html).
+
 <!--
 **ZedongPeng/ZedongPeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
